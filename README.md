@@ -1,4 +1,6 @@
 
+JobCare is a system that supports job seekers who are searching for jobs by automatically analyzing job competencies of job seekers with artificial intelligence technology and using them for training, qualification, and job counseling. The Korea Employment Information Service is building a job care service, a career management service, based on job search big data. Through this contest, we intend to create a personalized content recommendation model based on data.
+
 ## Tree
 
 ```
