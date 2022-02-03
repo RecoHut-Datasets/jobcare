@@ -10,3 +10,4 @@
 
 ## Source
 - https://github.com/Jeseok-Bang/Job_recommand_algorithm/raw/main/Jobcare_data.zip
+- https://dacon.io/en/competitions/official/235863/codeshare
